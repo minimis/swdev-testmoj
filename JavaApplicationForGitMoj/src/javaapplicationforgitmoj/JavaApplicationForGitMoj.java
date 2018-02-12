@@ -5,10 +5,7 @@
  */
 package javaapplicationforgitmoj;
 
-/**
- *
- * @author Ella
- */
+
 public class JavaApplicationForGitMoj {
 
 
